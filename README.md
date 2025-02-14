@@ -4,13 +4,13 @@
 
 ### 🚀 **What is GobLib?**
 
-GobLib (**Goblin Coding Library**) is a lightweight, high-performance library designed to simplify and centralize coding for **WoW addons**. Initially developed as a core library for **MythicKey**, it is being expanded into a standalone library for broader use. GobLib helps reduce redundancy, optimize workflows, and improve the overall efficiency of addon development.
+GobLib (**Goblin Coding Library**) is a lightweight, high-performance library designed to simplify and centralize coding for **WoW addons**. Initially developed as a core library for **MythicKey**, it is planned to be expanded into a standalone library in the future. GobLib helps reduce redundancy, optimize workflows, and improve the overall efficiency of addon development.
 
 ### 🔧 **Key Features:**
 
-✅ **Optimized Performance** – No unnecessary overhead, designed for speed.\
-✅ **Reusable API Functions** – Centralized functions to avoid duplicate code.\
-✅ **Modular & Expandable** – Future-proof design for growing needs.\
+✅ **Optimized Performance** (Planned) – No unnecessary overhead, designed for speed.\
+✅ **Reusable API Functions** (Planned) – Centralized functions to avoid duplicate code.\
+✅ **Modular & Expandable** (Planned) – Future-proof design for growing needs.\
 ✅ **Integrated Debugging Tools** *(Planned)* – Custom debugging and logging system.\
 ✅ **Event Handling & Hooks** *(Planned)* – Better event management for addons.
 
